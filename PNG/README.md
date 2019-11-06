@@ -1,4 +1,4 @@
 
 ## PNG logos
 
-<a href="isoverse_logo.png"><img src="isoverse_logo.png" width="100"></a>
+<a href="isoverse.png"><img src="isoverse.png" width="100"></a>

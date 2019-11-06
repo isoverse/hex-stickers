@@ -1,4 +1,4 @@
 
 ## SVG logos
 
-<a href="isoverse_logo.svg"><img src="isoverse_logo.svg" width="100"></a>
+<a href="isoverse.svg"><img src="isoverse.svg" width="100"></a>
