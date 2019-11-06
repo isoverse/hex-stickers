@@ -1,0 +1,8 @@
+{
+  "name": "isoreader",
+  "author": "Sebastian Kopf",
+  "license": "CC0",
+  "raster": "https://github.com/isoverse/hex-stickers/blob/master/PNG/isoreader.png",
+  "vector": "https://github.com/isoverse/hex-stickers/blob/master/SVG/isoreader.svg",
+  "description": "isoreader: one-stop command line interface to stable isotope file formats"
+}
