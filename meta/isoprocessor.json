@@ -1,0 +1,8 @@
+{
+  "name": "isoprocessor",
+  "author": "Sebastian Kopf",
+  "license": "CC0",
+  "raster": "https://github.com/isoverse/hex-stickers/blob/master/PNG/isoprocessor.png",
+  "vector": "https://github.com/isoverse/hex-stickers/blob/master/SVG/isoprocessor.svg",
+  "description": "isoprocessor: stable isotope data processing tools"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "isoviewer",
+  "author": "Sebastian Kopf",
+  "license": "CC0",
+  "raster": "https://github.com/isoverse/hex-stickers/blob/master/PNG/isoviewer.png",
+  "vector": "https://github.com/isoverse/hex-stickers/blob/master/SVG/isoviewer.svg",
+  "description": "isoviewer: GUI modules for isoverse"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "isoremote",
+  "author": "Sebastian Kopf",
+  "license": "CC0",
+  "raster": "https://github.com/isoverse/hex-stickers/blob/master/PNG/isoremote.png",
+  "vector": "https://github.com/isoverse/hex-stickers/blob/master/SVG/isoremote.svg",
+  "description": "isoremote: data base functionality for the isoverse"
+}
