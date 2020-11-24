@@ -1,5 +1,5 @@
 
-# isoverse logos<img src="SVG/isoverse.png" width="120" align="right" />
+# isoverse logos<img src="PNG/isoverse.png" width="120" align="right" />
 
 If you like the functionality that isoverse provides, please help us
 spread the word by including an isoverse logo on one of your posters or
