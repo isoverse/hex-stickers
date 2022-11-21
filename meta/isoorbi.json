@@ -1,0 +1,9 @@
+{
+  "name": "isoorbi",
+  "author": "Sebastian Kopf",
+  "license": "CC0",
+  "raster": "https://github.com/isoverse/hex-stickers/blob/master/PNG/isoorbi.png",
+  "vector": "https://github.com/isoverse/hex-stickers/blob/master/SVG/isoorbi.svg",
+  "description": "isoorbi: Process Orbitrap Iso data"
+  "image source":"https://en.wikipedia.org/wiki/File:NASA-Apollo8-Dec24-Earthrise.jpg"
+}
